@@ -1,11 +1,5 @@
-const isWSL = require("is-wsl");
-console.log(isWSL);
 const chromeFinder = require("chrome-launcher/dist/chrome-finder");
-console.log(chromeFinder.wsl());
-
 const puppeteer = require("puppeteer-core");
-
-console.log(process.env.UDD);
 
 //接続先URL
 const connectUrl = "http://google.co.jp";
