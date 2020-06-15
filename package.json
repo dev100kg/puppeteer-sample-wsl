@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer-sample-wsl",
+  "version": "1.0.0",
+  "description": "Puppeteerのサンプル(WSL版)",
+  "main": "example.js",
+  "author": "Kazunori Hisada",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chrome-launcher": "^0.13.3",
+    "is-wsl": "^2.2.0",
+    "puppeteer-core": "^3.3.0"
+  }
+}
