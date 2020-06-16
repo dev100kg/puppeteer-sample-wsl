@@ -1,6 +1,6 @@
 # Puppeteer を WSL で実行するサンプル
 
-WSL で Puppeteer を実行するサンプル。ChromeはWindows側にインストールしたChromeを起動する。
+WSL で Puppeteer を実行するサンプル。ChromeはWindowsにインストールされているChromeを起動する。
 
 ## 前提
 
